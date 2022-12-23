@@ -13,3 +13,5 @@ paddlepaddle-gpu>=2.0.0
 paddlehub>=2.1.0
 paddle2onnx>=0.5.1
 paddleseg>=2.0.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
